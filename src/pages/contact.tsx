@@ -31,7 +31,7 @@ export default function Contact() {
             Contact Us
           </p>
           <h1 className="mt-4 text-4xl font-black md:text-5xl">
-            Let's Create Something Great
+            Let&apos;s Create Something Great
           </h1>
           <p className="mt-5 leading-7 text-gray-600">
             Tell us about your printing, graphic design or branding project.

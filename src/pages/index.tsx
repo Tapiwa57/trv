@@ -105,7 +105,7 @@ export default function Home() {
           Have a project in mind?
         </h2>
         <p className="mx-auto mt-4 max-w-xl">
-          Tell us what you need, and let's bring your idea to life.
+          Tell us what you need, and let&apos;s bring your idea to life.
         </p>
         <Link
           href="/contact"
